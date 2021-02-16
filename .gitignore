@@ -1,3 +1,4 @@
 *.log 
 /doc/
 static/doc
+text.txt
